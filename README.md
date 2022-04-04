@@ -1,6 +1,6 @@
 # Introduction
 
-This is a sample e-commerce application built for learning.
+This is a sample e-commerce application built for learning using LAMP.
 
 Here's how to deploy it on Linux CentOS systems:
 
